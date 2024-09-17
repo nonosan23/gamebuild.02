@@ -1,0 +1,3 @@
+label cstart:
+"yooo"
+return
